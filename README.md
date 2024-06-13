@@ -23,7 +23,7 @@ lucky rolls is a simple dice rolling game built with HTML, CSS, and JavaScript. 
 
 ## Demo
 
-[Link to Live Demo]-->
+[Link to Live Demo]-->https://mounika-46.github.io/lucky--rolls/
 
 ## Contributions
 
